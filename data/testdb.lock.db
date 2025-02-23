@@ -1,0 +1,6 @@
+#FileLock
+#Fri Feb 21 17:19:32 BRT 2025
+hostName=192.168.1.2
+id=1952a2a4d3bd2c6496b29f40215c441fcc2fb990761
+method=file
+server=192.168.1.2\:62555
